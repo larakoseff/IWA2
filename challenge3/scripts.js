@@ -1,4 +1,4 @@
-(function(){"use strict";
+(function(){"use strict"; //strict mode prevents semantics in JavaScript that trip up beginners
 
 /* It is important to show the following message in order to:
 * - assure users

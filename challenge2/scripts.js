@@ -1,4 +1,4 @@
-(function(){"use strict";
+(function(){"use strict"; //strict mode prevents semantics in JavaScript that trip up beginners
 
 /* (c) ACME Inc. 2010 */
 
