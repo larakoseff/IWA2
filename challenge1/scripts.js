@@ -1,3 +1,5 @@
+(function(){"use strict";
+
 /* This is the firstname of the user */
 
 const user = 'John'
@@ -17,3 +19,4 @@ const surname2 = 'Smith' // This is the lastname of the user
 
 console.log(user2, surname2)
 
+})();

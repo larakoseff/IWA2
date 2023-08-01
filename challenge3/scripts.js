@@ -1,3 +1,5 @@
+(function(){"use strict";
+
 /* It is important to show the following message in order to:
 * - assure users
 * - scare hackers
@@ -22,3 +24,5 @@ console.log('warn: Security scan starting')
 // It is important to let user know when they can close the page 
 
 console.log('info: Please wait for scan to complete before closing the browser.')
+
+})();
